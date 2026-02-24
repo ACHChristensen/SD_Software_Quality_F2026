@@ -2,18 +2,6 @@
 
 # Lesson 5 - 24 February
 
-[Slides Continuous Testing]: #
-[GitHub Actions demos:]: #
-[- Runs Jest tests: https://github.com/arturomorarioja/js_vat]: #
-[- Runs PHPUnit tests: https://github.com/arturomorarioja/php_words]: #
-[- Runs SonarCloud: https://github.com/arturomorarioja/accessibility_web_design]: #
-[- Deploys: https://github.com/arturomorarioja/circe]: #
-[Talk about different flows (e.g., FE, BE, testing)]: #
-
-[PENDING: State Transition Testing]: #
-
-[Homework: try GitHub Actions]: #
-
 ### Homework:
 Check out the following slide decks on Itslearning:
 - **Integration Testing**, with especial attention to
