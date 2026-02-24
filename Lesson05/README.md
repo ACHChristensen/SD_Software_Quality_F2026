@@ -27,4 +27,4 @@ Check out the following slide decks on Itslearning:
 - Integration testing
   - Solve the [measure converter exercise](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson05/01%20Measure%20Converter.md), where you will:
     - Apply your black-box and white-box test design knowledge
-    - Decide what to mock and what not to mock (and, most importantly, why)
+    - Once you implement the mocking and non-mocking tests, decide what would you and what would you not mock in a real life situation (and, most importantly, why)
