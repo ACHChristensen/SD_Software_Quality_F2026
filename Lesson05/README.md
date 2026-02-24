@@ -2,13 +2,6 @@
 
 # Lesson 5 - 24 February
 
-[Exercises: coverage 3 last ones]: #
-[Exercises: DT Driver's license / Airline]: #
-
-[Slides Integration Testing]: #
-[Prescribe Measure Converter as homework]: #
-
-[Slides API Testing]: #
 [Postman demo: https://github.com/arturomorarioja/py_library_api_v3]: #
 [Prescribe Customers API as homework]: #
 
@@ -25,3 +18,13 @@
 [PENDING: State Transition Testing]: #
 
 [Homework: Measure Converter, Customers API testing, try GitHub Actions, reflect on DB testing]: #
+
+### Homework:
+Check out the following slide decks on Itslearning:
+- **Integration Testing**, with especial attention to
+  - Advantages: protection against regressions, resistance to refactoring
+  - Disadvantages: slow, difficult to maintain
+- Integration testing
+  - Solve the [measure converter exercise](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson05/01%20Measure%20Converter.md), where you will:
+    - Apply your black-box and white-box test design knowledge
+    - Decide what to mock and what not to mock (and, most importantly, why)
