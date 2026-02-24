@@ -58,6 +58,7 @@ The test case values for valid partitions were already figured out after the dec
 ||0-84|84|83 84 85|
 ||85-100|85|84 85 86|
 ||85-100|100|99 100 101|
+||101-MAX INTEGER|101|100 101 102|
 |Practical exam errors|0-2|0|0 1|
 ||0-2|2|1 2 3|
 ||3-MAX INTEGER|3|2 3 4|
