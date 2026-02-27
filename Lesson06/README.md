@@ -10,6 +10,8 @@
 [- Deploys: https://github.com/arturomorarioja/circe]: #
 [Talk about different flows (e.g., FE, BE, testing)]: #
 
+[E2E slides, Selenium slides]: #
+
 [PENDING: State Transition Testing]: #
 
 [Homework: try GitHub Actions]: #
