@@ -3,7 +3,7 @@
 # Lesson 6 - 3 March
 
 [homework solutions]: #
-[  measure converter]: #
+[  measure converter -> remark that mocking is useless here]: #
 [  customers api]: #
 
 [Make sure to run the latest Selenium IDE on the latest Firefox]: #
