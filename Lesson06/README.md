@@ -5,6 +5,7 @@
 [Make sure to run the latest Selenium IDE on the latest Firefox]: #
 [Then in Firefox open about:config. In the search box type dom.keyboardevent.init_key_event.enabled_in_addons and set it to true]: #
 [git pull all Selenium WebDriver code samples]: #
+[Download Selenium pptx & pdf]: #
 
 [Slides Continuous Testing]: #
 [GitHub Actions demos:]: #
