@@ -14,6 +14,10 @@
 [Talk about different flows (e.g., FE, BE, testing)]: #
 
 [E2E slides, Selenium slides]: #
+[Selenium IDE demo]: #
+[In-class: try Selenium IDE]: #
+
+[Selenium WebDriver demos: basic, formy, waits]: #
 
 [PENDING: State Transition Testing]: #
 
