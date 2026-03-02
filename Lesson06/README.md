@@ -2,6 +2,10 @@
 
 # Lesson 6 - 3 March
 
+[homework solutions]: #
+[  measure converter]: #
+[  customers api]: #
+
 [Make sure to run the latest Selenium IDE on the latest Firefox]: #
 [Then in Firefox open about:config. In the search box type dom.keyboardevent.init_key_event.enabled_in_addons and set it to true]: #
 [git pull all Selenium WebDriver code samples, plus https://github.com/arturomorarioja/js_webshop and https://github.com/arturomorarioja/webshop_selenium_py_e2e]: #
