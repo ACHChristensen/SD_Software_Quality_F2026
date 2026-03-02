@@ -2,6 +2,9 @@
 
 # Lesson 6 - 3 March
 
+[Make sure to run the latest Selenium IDE on the latest Firefox]: #
+[Then in Firefox open about:config. In the search box type dom.keyboardevent.init_key_event.enabled_in_addons and set it to true]: #
+
 [Slides Continuous Testing]: #
 [GitHub Actions demos:]: #
 [- Runs Jest tests: https://github.com/arturomorarioja/js_vat]: #
