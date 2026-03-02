@@ -1,4 +1,4 @@
-### Selenium webshop
+### Selenium WebDriver webshop
 Write a happy path end-to-end test in Selenium WebDriver for the [webshop sample](https://github.com/arturomorarioja/js_webshop) that covers the following business path:
 
 1. Click on "Sign up"
