@@ -18,7 +18,9 @@
 [Selenium IDE demo]: #
 [In-class: try Selenium IDE]: #
 
-[Selenium WebDriver demos: basic, formy, waits]: #
+[Selenium WebDriver slides. Demos: basic, Formy]: #
+[  POM. Demo: Formy POM]: #
+[  Waits. Demo: waits]: #
 
 [PENDING: State Transition Testing]: #
 
