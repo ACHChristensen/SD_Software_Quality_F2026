@@ -19,6 +19,7 @@
 [In-class: try Selenium IDE]: #
 
 [Selenium WebDriver slides. Demos: basic, Formy]: #
+[  Demo: headless]: #
 [  POM. Demo: Formy POM]: #
 [  Waits. Demo: waits]: #
 
