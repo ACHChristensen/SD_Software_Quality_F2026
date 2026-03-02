@@ -1,4 +1,4 @@
-Write a happy path end-to-end test for the [webshop sample](https://github.com/arturomorarioja/js_webshop) that covers the following business path:
+Write a happy path end-to-end test in Selenium WebDriver for the [webshop sample](https://github.com/arturomorarioja/js_webshop) that covers the following business path:
 
 1. Click on "Sign up"
 2. Insert the e-mail `test@kea.dk`, password and repeat password `Testing`. Click on "Sign up"
@@ -13,8 +13,3 @@ Write a happy path end-to-end test for the [webshop sample](https://github.com
 11. Introduce the address `Guldbergsgade 29N`, postal code `2200`, city `Copenhagen`, in Billing address check "Same as delivery address", in Credit card introduce the name `Pernille L. Hansen`, expiration `December 2027`, CVV `666`. Click on "Place Purchase"
 12. Click on "Cart". Confirm that it is empty. Leave the modal
 13. Log out. Confirm that the option "Log in" is on the page
-
-Implement it in:
-- Selenium WebDriver
-- Cypress
-- Playwright
