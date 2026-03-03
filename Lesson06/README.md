@@ -2,11 +2,6 @@
 
 # Lesson 6 - 3 March
 
-[Make sure to run the latest Selenium IDE on the latest Firefox]: #
-[Then in Firefox open about:config. In the search box type dom.keyboardevent.init_key_event.enabled_in_addons and set it to true]: #
-
-[PENDING: State Transition Testing]: #
-
 ### In-class exercise
 - Try Selenium IDE on projects of your own
 
