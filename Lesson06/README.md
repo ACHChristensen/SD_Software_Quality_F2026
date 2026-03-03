@@ -2,26 +2,8 @@
 
 # Lesson 6 - 3 March
 
-[homework solutions]: #
-[  measure converter -> remark that mocking is useless here]: #
-[  customers api]: #
-
 [Make sure to run the latest Selenium IDE on the latest Firefox]: #
 [Then in Firefox open about:config. In the search box type dom.keyboardevent.init_key_event.enabled_in_addons and set it to true]: #
-[git pull all Selenium WebDriver code samples, plus https://github.com/arturomorarioja/js_webshop and https://github.com/arturomorarioja/webshop_selenium_py_e2e]: #
-[Download Selenium pptx & pdf]: #
-
-[Slides Continuous Testing]: #
-[GitHub Actions demos:]: #
-[- Runs Jest tests: https://github.com/arturomorarioja/js_vat]: #
-[- Runs PHPUnit tests: https://github.com/arturomorarioja/php_words]: #
-[- Runs SonarCloud: https://github.com/arturomorarioja/accessibility_web_design]: #
-[- Deploys: https://github.com/arturomorarioja/circe]: #
-[Talk about different flows (e.g., FE, BE, testing)]: #
-
-[E2E slides, Selenium slides]: #
-[Selenium IDE demo]: #
-[In-class: try Selenium IDE]: #
 
 [Selenium WebDriver slides. Demos: basic, Formy]: #
 [  Demo: headless]: #
@@ -35,3 +17,16 @@
 [  Selenium webshop]: #
 [  Selenium formy & the internet]: #
 
+### In-class exercise
+- Try Selenium IDE on projects of your own
+
+### Homework
+- Check out the following slides on Itslearning
+  - **Continuous Testing**. Notice:
+    - The difference between CI, CT, CD and the other CD
+  - **End-to-End UI Testing**
+  - **Selenium**, with especial attention to [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/)
+- Continuous Testing
+  - Try one or several CI/CD applications on applications of yours
+    - Create continuous integration jobs and pipelines
+    - Run tests in the pipeline (unit tests, integration tests, linting, static code analysis tools)
