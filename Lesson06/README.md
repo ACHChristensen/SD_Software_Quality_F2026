@@ -30,3 +30,10 @@
   - Try one or several CI/CD applications on applications of yours
     - Create continuous integration jobs and pipelines
     - Run tests in the pipeline (unit tests, integration tests, linting, static code analysis tools)
+Check out the following code samples
+- Selenium WebDriver
+  - [Basic](https://github.com/arturomorarioja/js_basic_selenium_webdriver_tests)
+  - [Formy](https://github.com/arturomorarioja/js_formy_selenium_webdriver_tests). It tests Meaghan Lewis' [Formy](https://formy-project.herokuapp.com/) page
+  - [Waits](https://github.com/arturomorarioja/js_waits_selenium_webdriver_tests)
+- Solve the [Webshop End-to-End Testing Exercise](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson06/01%20Selenium%20webshop.md) in Selenium WebDriver
+- You can practice further by automating every page in [Formy](https://formy-project.herokuapp.com/) (warning: `autocomplete` may not work) and [the-internet](https://the-internet.herokuapp.com/)
