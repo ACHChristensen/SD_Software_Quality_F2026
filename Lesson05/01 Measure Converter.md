@@ -65,3 +65,7 @@ Create several classes that perform several measure conversions according to the
     - Mocking the dependencies
 
 If you cannot finish the whole assignment, work on some specific conversion (preferably currency or grades) and the corresponding tests.
+
+### Solution
+- [PyUnit/Python](https://github.com/arturomorarioja/py_measure_converter)
+- [PHPUnit/PHP8](https://github.com/arturomorarioja/measure_converter)
