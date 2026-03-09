@@ -4,6 +4,7 @@
 
 [Download end-to-end testing and cypress slides]: #
 [git clone/pull https://github.com/arturomorarioja/fake_info/ and https://github.com/arturomorarioja/js_fake_info_frontend]: #
+[git pull all cypress samples]: #
 [inform about Marc and Caroline]: #
 
 [PENDING: State Transition Testing]: #
@@ -12,6 +13,7 @@
 
 [Slides: Cypress]: #
 [  Demos: Basic, Formy, Measure converter]: #
+[  In-class exercise: practice Cypress]: #
 
 [Slides: Playwright]: #
 [  Demos: Basic, Formy]: #
