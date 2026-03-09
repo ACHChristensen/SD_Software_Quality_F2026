@@ -6,6 +6,8 @@
 [git clone/pull https://github.com/arturomorarioja/fake_info/ and https://github.com/arturomorarioja/js_fake_info_frontend]: #
 [git pull all cypress samples]: #
 [inform about Marc and Caroline]: #
+[git pull all playwright samples]: #
+[  run npm i and then npx playwright install]: #
 
 [PENDING: State Transition Testing]: #
 
