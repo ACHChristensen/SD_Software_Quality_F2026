@@ -21,3 +21,5 @@
 [Slides: End-to-end testing tools comparison]: #
 
 [1MA]: #
+
+[Homework: try Cypress and Playwright in formy and the internet, redo the webshop]: #
