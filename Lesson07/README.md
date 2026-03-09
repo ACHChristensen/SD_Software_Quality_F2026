@@ -22,6 +22,9 @@
 [  Demos: Basic]: #
 [    show code first, run tests later]: #
 [    home, checkout. Then for visualGen run :visualGen, then open visual.spec.js and follow the comment. Make it fail based on auth vs. no auth. Then api]: #
+[    npx playwright test home.spec.js --headed]: #
+[    npx playwright test --ui. Show debugging]: #
+[    npx playwright codegen. Copy-paste it and run it]: #
 [  Demos: Formy]: #
 
 [Slides: End-to-end testing tools comparison]: #
