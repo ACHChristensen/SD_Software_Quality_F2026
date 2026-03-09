@@ -2,7 +2,9 @@
 
 # Lesson 7 - 10 March
 
+[Download end-to-end testing and cypress slides]: #
 [git clone/pull https://github.com/arturomorarioja/fake_info/ and https://github.com/arturomorarioja/js_fake_info_frontend]: #
+[inform about Marc and Caroline]: #
 
 [PENDING: State Transition Testing]: #
 
@@ -13,5 +15,7 @@
 
 [Slides: Playwright]: #
 [  Demos: Basic, Formy]: #
+
+[Slides: End-to-end testing tools comparison]: #
 
 [1MA]: #
