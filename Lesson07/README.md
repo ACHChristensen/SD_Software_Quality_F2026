@@ -15,6 +15,7 @@
 
 [Slides: Cypress]: #
 [  Demos: Basic, Formy, Measure converter]: #
+[  Talk about data-cy]: #
 [  In-class exercise: practice Cypress]: #
 
 [Slides: Playwright]: #
