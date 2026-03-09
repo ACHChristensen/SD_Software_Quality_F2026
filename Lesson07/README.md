@@ -19,7 +19,10 @@
 [  In-class exercise: practice Cypress]: #
 
 [Slides: Playwright]: #
-[  Demos: Basic, Formy]: #
+[  Demos: Basic]: #
+[    show code first, run tests later]: #
+[    home, checkout. Then for visualGen run :visualGen, then open visual.spec.js and follow the comment. Make it fail based on auth vs. no auth. Then api]: #
+[  Demos: Formy]: #
 
 [Slides: End-to-end testing tools comparison]: #
 
