@@ -25,4 +25,4 @@
 [Homework: try Cypress and Playwright in formy and the internet, redo the webshop]: #
 
 [### In-class exercise:]: #
-[- Cypress: Automate as many pages as possible in [Formy](https://formy-project.herokuapp.com/) (warning: `autocomplete` may not work) and [the-internet](https://the-internet.herokuapp.com/)]: #
+[- Cypress: Automate as many pages as possible in Formy(https://formy-project.herokuapp.com/) (warning: `autocomplete` may not work) and the-internet(https://the-internet.herokuapp.com/)]: #
