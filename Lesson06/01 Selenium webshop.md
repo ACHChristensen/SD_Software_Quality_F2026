@@ -14,3 +14,5 @@ Write a happy path end-to-end test in Selenium WebDriver for the [webshop samp
 11. Introduce the address `Guldbergsgade 29N`, postal code `2200`, city `Copenhagen`, in Billing address check "Same as delivery address", in Credit card introduce the name `Pernille L. Hansen`, expiration `December 2027`, CVV `666`. Click on "Place Purchase"
 12. Click on "Cart". Confirm that it is empty. Leave the modal
 13. Log out. Confirm that the option "Log in" is on the page
+
+[Solution](https://github.com/arturomorarioja/webshop_selenium_py_e2e) (Python and Firefox)
