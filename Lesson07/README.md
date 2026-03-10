@@ -4,10 +4,6 @@
 
 [PENDING: State Transition Testing]: #
 
-[Slides: Cypress]: #
-[  Demos: Basic, Formy, Measure converter]: #
-[  In-class exercise: practice Cypress]: #
-
 [Slides: Playwright]: #
 [  Demos: Basic]: #
 [    show code first, run tests later]: #
@@ -21,7 +17,16 @@
 
 [1MA]: #
 
-[Homework: try Cypress and Playwright in formy and the internet, redo the webshop]: #
+[Homework: try Playwright in formy and the internet, redo the webshop]: #
 
 ### In-class exercise:
 - Cypress: Automate as many pages as possible in [Formy](https://formy-project.herokuapp.com/) (warning: `autocomplete` may not work) and [the-internet](https://the-internet.herokuapp.com/)
+
+### Homework
+- Check out the following slides on Itslearning
+  - **Cypress**
+- Check out the following code samples
+  - Cypress
+    - [Basic](https://github.com/arturomorarioja/js_basic_cypress_tests)
+    - [Formy](https://github.com/arturomorarioja/js_formy_cypress_tests)
+    - Measure converter ([Python/Pytest](https://github.com/arturomorarioja/py_measure_converter) | [PHP8/PHPUnit](https://github.com/arturomorarioja/measure_converter))
