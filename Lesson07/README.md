@@ -2,23 +2,6 @@
 
 # Lesson 7 - 10 March
 
-[PENDING: State Transition Testing]: #
-
-[Slides: Playwright]: #
-[  Demos: Basic]: #
-[    show code first, run tests later]: #
-[    home, checkout. Then for visualGen run :visualGen, then open visual.spec.js and follow the comment. Make it fail based on auth vs. no auth. Then api]: #
-[    npx playwright test home.spec.js --headed]: #
-[    npx playwright test --ui. Show debugging]: #
-[    npx playwright codegen. Copy-paste it and run it]: #
-[  Demos: Formy]: #
-
-[Slides: End-to-end testing tools comparison]: #
-
-[1MA]: #
-
-[Homework: try Playwright in formy and the internet, redo the webshop]: #
-
 ### In-class exercises:
 - Cypress: Automate as many pages as possible in [Formy](https://formy-project.herokuapp.com/) (warning: `autocomplete` may not work) and [the-internet](https://the-internet.herokuapp.com/)
 - Playwright: do the same
@@ -27,6 +10,7 @@
 - Check out the following slides on Itslearning
   - **Cypress**
   - **Playwright**
+  - **End-to-End UI Testing**, specifically the comparison between the three major E2E testing tools (slides 6 and 7)
 - Check out the following code samples
   - Cypress
     - [Basic](https://github.com/arturomorarioja/js_basic_cypress_tests)
@@ -35,4 +19,5 @@
   - Playwright
     - [Basic](https://github.com/arturomorarioja/js_basic_playwright_tests). It tests https://practicesoftwaretesting.com/
     - [Formy](https://github.com/arturomorarioja/js_formy_playwright_tests)
-- Solve the [Webshop End-to-End Testing Exercise](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson06/01%20Selenium%20Webshop.md) in Cypress and Playwright
+- Solve the [Webshop End-to-End Testing Exercise](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson06/01%20Selenium%20webshop.md) in Cypress and Playwright
+- Start working on the **First Mandatory Assignment**
