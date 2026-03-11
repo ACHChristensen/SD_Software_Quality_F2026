@@ -3,3 +3,14 @@
 # Lesson 8 - 17 March
 
 [PENDING: State Transition Testing]: #
+
+[Slides: Acceptance Testing]: #
+[Sample documents: test case template + acceptance test checklist]: #
+[In-class exercise]: #
+
+[Slides: Agile and Testing]: #
+
+[Slides: TDD]: #
+[Demo: play LinkedIn Learning videos]: #
+
+[If time left: TDD: Refactoring]: #
