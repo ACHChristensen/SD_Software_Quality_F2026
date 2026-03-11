@@ -4,6 +4,8 @@
 
 [PENDING: State Transition Testing]: #
 
+[Homework solution: Webshop Cypress, Webshop Playwright]: #
+
 [Slides: Acceptance Testing]: #
 [Sample documents: test case template + acceptance test checklist]: #
 [In-class exercise]: #
