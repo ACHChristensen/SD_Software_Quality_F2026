@@ -1,4 +1,4 @@
-Design an acceptance test based on the following Software Requirements Specification:
+Design and document an acceptance test based on the following Software Requirements Specification:
 
 ---
 
@@ -6,9 +6,9 @@ Design an acceptance test based on the following Software Requirements Specifica
 
 ### System Description
 
-The university library provides a web application that allows students to reserve books online.
+A library provides a web application that allows users to reserve books online.
 
-Students must be logged in to perform reservations.
+Users must be logged in to perform reservations.
 
 The system contains a catalogue of books with the following information:
 - Title
@@ -73,8 +73,6 @@ After cancellation, the book becomes Available again.
 
 Work in groups of 4 or 5 students.
 
-Use the [Acceptance Test checklist](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson08/Acceptance%20Test%20checklist.xlsx) as a template.
-
 Create requirements-based test checks for:
 - Searching books
 - Viewing book details
@@ -82,3 +80,4 @@ Create requirements-based test checks for:
 - Reservation restrictions
 - Managing reservations
 
+Think about a useful way to document the test. Get inspiration from the [Acceptance Test checklist](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson08/Acceptance%20Test%20checklist.xlsx), but try to come with your own format. Remember that it is users, not technical personnel, who will fill the document.
