@@ -10,9 +10,12 @@
 [Sample documents: test case template + acceptance test checklist]: #
 [In-class exercise]: #
 
-[Slides: Agile and Testing]: #
-
 [Slides: TDD]: #
 [Demo: play LinkedIn Learning videos]: #
+[In-class exercise: Words]: #
+
+[Slides: Agile and Testing]: #
 
 [If time left: TDD: Refactoring]: #
+
+[No homework. Keep working in the 1MA]: #
