@@ -18,4 +18,4 @@
 
 [If time left: TDD: Refactoring]: #
 
-[No homework. Keep working in the 1MA]: #
+[No homework. Keep working in the 1MA (or TDD if there is no time)]: #
