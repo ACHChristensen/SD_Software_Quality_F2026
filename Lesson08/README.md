@@ -2,9 +2,6 @@
 
 # Lesson 8 - 17 March
 
-[PENDING: State Transition Testing]: #
-[If time left: TDD: Refactoring]: #
-
 ### Homework solutions
 - Webshop end-to-end testing: [Cypress](https://github.com/arturomorarioja/js_webshop_e2e_tests) / [Playwright](https://github.com/arturomorarioja/js_webshop_playwright_tests)
 
