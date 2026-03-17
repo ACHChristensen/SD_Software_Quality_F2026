@@ -5,3 +5,5 @@
 [PENDING: State Transition Testing]: #
 [If time left: TDD: Refactoring]: #
 
+[Test management: risk analysis]: #
+[Reviews]: #
