@@ -1,3 +1,5 @@
+Work in groups of 4 or 5.
+
 Design and document an acceptance test based on the following Software Requirements Specification:
 
 ---
