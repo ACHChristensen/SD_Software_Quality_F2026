@@ -4,10 +4,6 @@
 
 [PENDING: State Transition Testing]: #
 
-[Homework solution: Webshop Cypress, Webshop Playwright]: #
-
-[Slides: Acceptance Testing]: #
-[Sample documents: test case template + acceptance test checklist]: #
 [In-class exercise: Library]: #
 
 [Slides: TDD]: #
@@ -22,6 +18,9 @@
 
 ### Homework solutions
 - Webshop end-to-end testing: [Cypress](https://github.com/arturomorarioja/js_webshop_e2e_tests) / [Playwright](https://github.com/arturomorarioja/js_webshop_playwright_tests)
+
+### In-class exercises
+- Acceptance Testing design: [Library Book Reservation System](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson08/01%20AT%20Design%20-%20Library.md)
 
 ### Homework
 Check out the following slides on Itslearning and associated materials
