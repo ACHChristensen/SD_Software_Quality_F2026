@@ -5,6 +5,7 @@
 [PENDING: State Transition Testing]: #
 [If time left: TDD: Refactoring]: #
 
+[Download slides Review + SQ Management]: #
 [Homework solution: Words. Ask about their TDD experience]: #
 [Ask about the 1MA]: #
 
