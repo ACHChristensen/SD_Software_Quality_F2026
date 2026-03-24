@@ -13,7 +13,7 @@
 - [Lesson 6](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson06/README.md) (3 March): End-to-End UI Testing: Selenium IDE, Selenium WebDriver
 - [Lesson 7](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson07/README.md) (10 March): End-to-End UI Testing: Cypress, Playwright
 - [Lesson 8](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson08/README.md) (17 March): Acceptance Testing. Agile and Testing. Test-Driven Development
-- [Lesson 9](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson09/README.md) (24 March): Test Management: Risk Analysis. Static Testing: Reviews
+- [Lesson 9](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson09/README.md) (24 March): Static Testing: Reviews
 - Lesson 10 (7 April): Student presentations
-- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson11/README.md) (14 April): Stress Performance Testing
+- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson11/README.md) (14 April): Test Management: Risk Analysis. Stress Performance Testing
 - [Lesson 12](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson12/README.md) (21 April): Web Performance Testing. Usability Testing
