@@ -32,3 +32,41 @@ Further improvements (especially for bigger tables):
 - Sort issues based on priority
 - Categorise issues (e.g., syntax, functionality, non-functional requirement, missing, etc.)
 - Divide the table into several tables (priority-based, category-based, localtion-based, etc.)
+
+---
+**Potential improvement to the SRS**
+
+1. System definition
+   
+The application is called “Customer Information System” (henceforth CIS).
+
+2. System structure
+
+CIS will consist of:
+- a data entry window
+- a data display window<br><br>The data display window will obtain data from the data entry window. The data display window will include a printing option to print the information to a printer, or to the following file formats:
+  - pdf file
+  - json
+  - csv
+
+3. User interface
+
+The data entry window will require the user to input the customer information according to the following template (“Template 1”):
+- First name. Max. 40 characters. Only Danish alphabetic characters and dash allowed
+- Surname. Max. 60 characters. Only Danish alphabetic characters and dash allowed
+- Address. Max. 120 characters. Only Danish alphabetic characters, numbers, dot (“.”), comma (“,”), and dash (“-”) allowed
+- City. From the list of cities in annex I
+- Postal code. Danish format: 3 or 4 numeric digits
+- Phone number. Danish phone number format: 8 numeric digits
+- Date of birth. Danish date format: “dd/MM/yyyy”
+- Preferred display colour **[TBD]**.
+
+All the fields are mandatory except “Phone number”.
+
+The default display colour will be “White”.
+
+There will be an “Ok” button and a “Cancel” button in the data entry window’s bottom right position.
+- When clicking the “Cancel” button, the data entry window (and, thus, CIS) will be closed.
+- When clicking the “Ok” button, the data display window will appear and show the customer information formatted according to Template 1. Besides, a new row will be displayed below to show the customer’s age status based on the customer’s date of birth and according to the following formula:
+  - Customer’s age < 18 years → display “Under-aged”
+  - Otherwise → display “Adult”
