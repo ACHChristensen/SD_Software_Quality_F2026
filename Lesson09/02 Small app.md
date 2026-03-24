@@ -1,6 +1,6 @@
 ### Small application
 
-The class will be divided in groups of 4 or 5 students.
+The class will be divided in groups of 5 or 6 students.
 
 This exercise has two parts:
 - Part 1
@@ -16,3 +16,12 @@ This exercise has two parts:
     - An audio recorder
     - A notes app
   - Each group will upload their specification document as a pdf file to Teams (folder *SRS*). The name of the file will be the name of the application.
+- Part 2
+  - Each document will be assigned to another group for review
+  - Before reviewing, each group will define roles:
+    - 1 moderator
+    - N reviewers
+    - 1 scribe
+  - Each group will upload a final review document (pdf file) to Teams (folder *Review*)
+    - The name of the file will be the name of the application
+    - Please include the names of the group members at the top of the file and submit as a group
