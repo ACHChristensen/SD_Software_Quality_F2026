@@ -11,3 +11,7 @@
   
 [Test management: risk analysis]: #
 [Homework: EK Ølbar(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson09/03%20EK%20%C3%98lbar.md)]: #
+
+### Homework
+Check out the following slides decks on Itslearning:
+- **Static Testing: Reviews**. Make sure that you understand the different review types, the different phases of the process, the roles, and how to document a review
