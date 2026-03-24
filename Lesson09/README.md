@@ -14,6 +14,7 @@ Check out the following slide decks on Itslearning:
   - The review roles
   - How to document a review
 - **Test Design Techniques: Black-Box**, especifically State Transition Testing
+- Check out [this video](https://www.youtube.com/watch?v=JaJ_nNk3f1o) illustrating a code review
 - Check out this State Transition Diagram example: [Checkout](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson09/04%20STD%20Checkout.md)
 - Solve the following State Transition Testing exercises:
   - [ATM](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson09/05%20STD%20ATM.md)
