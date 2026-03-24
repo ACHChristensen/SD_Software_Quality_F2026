@@ -31,4 +31,4 @@ Legend:
 Further improvements (especially for bigger tables):
 - Sort issues based on priority
 - Categorise issues (e.g., syntax, functionality, non-functional requirement, missing, etc.)
-- Divide the table into several table (priority-based, category-based, localtion-based, etc.)
+- Divide the table into several tables (priority-based, category-based, localtion-based, etc.)
