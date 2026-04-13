@@ -13,6 +13,7 @@
 [  Probably not time enough for the high availability exercise]: #
 [  JMeter demo]: #
 [    Basic. Make it fail (404)]: #
+[      Show the graph generation menu option]: #
 [    Orange Valley tests: API stress performance test with graph results and aggregate graph]: #
 [    Custom Thread Groups]: #
 
