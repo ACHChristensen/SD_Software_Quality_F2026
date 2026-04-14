@@ -18,6 +18,7 @@ Work in groups of 4 or 5.
 - For each risk
   - Give it an ID, a name, and a description
   - Estimate its probability and impact
+    - Specify what each probability and impact mean
   - Calculate its risk factor
   - Elaborate a list of possible mitigation actions
   - Identify the responsible person(s)/role(s)
