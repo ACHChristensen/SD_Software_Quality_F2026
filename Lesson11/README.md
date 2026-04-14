@@ -15,3 +15,4 @@
     - Risk Factor Calculation
     - Risk Table
     - Risk Matrix  
+- Catch up on all previous exercise (both in-class and homework)
