@@ -15,4 +15,5 @@
     - Risk Factor Calculation
     - Risk Table
     - Risk Matrix  
+- Check out the following short video: ["Risk and How to use a Risk Matrix"](https://www.youtube.com/watch?v=-E-jfcoR2W0)
 - Catch up on all previous exercise (both in-class and homework)
