@@ -12,6 +12,7 @@
 [    In-class ex]: #
 
 [Quick Usability Testing? Quick Web App Performance?]: #
+[Show the SQLite slide]: #
 
 [Exam & Exam Project]: #
 
