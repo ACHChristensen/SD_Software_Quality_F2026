@@ -14,6 +14,8 @@
 [Quick Usability Testing? Quick Web App Performance?]: #
 [Show the SQLite slide]: #
 
+[Satisfaction questionnaire (paste on Teams): https://forms.cloud.microsoft/e/Kc5YUbQSPc]: #
+
 [Exam & Exam Project]: #
 
 [### In-class exercises]: #
