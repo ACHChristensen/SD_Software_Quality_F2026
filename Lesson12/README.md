@@ -2,10 +2,7 @@
 
 # Lesson 12 - 21 April
 
-[    Orange Valley tests: API stress performance test with graph results and aggregate graph]: #
-
 [Quick Usability Testing? Quick Web App Performance?]: #
-[Show the SQLite slide]: #
 
 [Satisfaction questionnaire (paste on Teams): https://forms.cloud.microsoft/e/Kc5YUbQSPc]: #
 
