@@ -18,8 +18,8 @@
 
 [Exam & Exam Project]: #
 
-[### In-class exercises]: #
-[- High availability(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson12/01%20High%20availability.md)]: #
-[- Stress Performance Testing(https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson12/02%20Stress%20Performance%20Testing.md)]: #
+### In-class exercises
+- [High availability](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson12/01%20High%20availability.md)
+- [Stress Performance Testing](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson12/02%20Stress%20Performance%20Testing.md)
 
 [If time left: TDD: Refactoring]: #
