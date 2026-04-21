@@ -1,6 +1,8 @@
 ### Stress Performance Testing Exercise
 
-Install and run [Apache JMeter](https://jmeter.apache.org/).
+Install and run a stress performance test tool (e.g., Apache JMeter, Locust, Grafana k6).
+
+If you choose [Apache JMeter](https://jmeter.apache.org/):
 
 Go to https://jmeter-plugins.org/. Download and install the plugin [Custom Thread Group](https://jmeter-plugins.org/wiki/ConcurrencyThreadGroup/).
 
